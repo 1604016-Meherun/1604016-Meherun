@@ -2,7 +2,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1604016-Meherun&theme=highcontrast&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=1604016-Meherun&theme=highcontrast&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&color=blue)
   
