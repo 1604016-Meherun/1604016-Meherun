@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=1604016-Meherun&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&custom_title=Meherun's GitHub Stats" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&layout=compact&theme=rose_pine&hide_border=false&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 <img src="https://github.com/1604016-Meherun/1604016-Meherun/assets/main/your-radar-image.png" width="400"/>
 </div>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 🌸 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/meherun-nesa-shraboni-75852335b/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/meherun-nesa-shraboni-75852335b/])
 - 💌 Email: meherun1604016@gmail.com  
 
 > ✨ “Coding is my canvas, and data is my paint.” 🎨
