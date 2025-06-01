@@ -1,5 +1,3 @@
-## Hi there 👋
-## 🔥 GitHub Stats:
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -47,14 +45,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&layout=compact&theme=rose_pine&hide_border=false&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
 
+<img src="https://github.com/1604016-Meherun/1604016-Meherun/assets/main/your-radar-image.png" width="400"/>
 </div>
 
 ---
 
 ## 🌸 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📊 [Kaggle](https://www.kaggle.com/your-kaggle)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/meherun-nesa-shraboni-75852335b/))
 - 💌 Email: meherun1604016@gmail.com  
 
 > ✨ “Coding is my canvas, and data is my paint.” 🎨
