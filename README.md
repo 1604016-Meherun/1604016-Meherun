@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&color=pink)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
 
