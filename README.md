@@ -35,17 +35,15 @@ Here are some ideas to get you started:
 
 ## 🔥 GitHub Stats
 
-<p align="center" style="background-color:#fff0f6; padding: 15px; border-radius: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1604016-Meherun&theme=candy&date_format=M%20j%5B%2C%20Y%5D&hide_border=false" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1604016-Meherun&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D&hide_border=false" alt="GitHub Streak"/>
 </p>
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=1604016-Meherun&show_icons=true&theme=pastel&hide_border=false&include_all_commits=true&count_private=true&custom_title=✨ Meherun's GitHub Stats ✨" alt="GitHub Stats"/>
 
-  <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&color=blue)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&theme=pastel&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 </div>
 
