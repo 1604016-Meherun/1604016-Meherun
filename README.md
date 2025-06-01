@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🔥 GitHub Stats:
-
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
@@ -14,7 +14,7 @@
 
 </div>
 
-<!--
+
 **1604016-Meherun/1604016-Meherun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,3 +28,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨ Hi there! I'm Meherun Nesa Shraboni 💖
+
+🎓 PhD Student | 👩‍💻 AI & VR Researcher | 🌐 Open Source Enthusiast  
+🎯 Passionate about eye-tracking, virtual reality, and machine learning!
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1604016-Meherun&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=1604016-Meherun&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&custom_title=Meherun's GitHub Stats" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&layout=compact&theme=rose_pine&hide_border=false&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌸 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📊 [Kaggle](https://www.kaggle.com/your-kaggle)
+- 💌 Email: meherun1604016@gmail.com  
+
+> ✨ “Coding is my canvas, and data is my paint.” 🎨
+
+---
+
+_Thanks for stopping by! ⭐_
