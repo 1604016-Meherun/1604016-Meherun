@@ -43,9 +43,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=1604016-Meherun&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&custom_title=Meherun's GitHub Stats" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1604016-Meherun&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
-
-<img src="https://github.com/1604016-Meherun/1604016-Meherun/assets/main/your-radar-image.png" width="400"/>
 </div>
 
 ---
